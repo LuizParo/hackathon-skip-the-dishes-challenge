@@ -1,4 +1,4 @@
-#hackathon-skip-the-dishes-challenge
+# hackathon-skip-the-dishes-challenge
 
 This is the project developed during the hackathon with SkipTheDishes.
 
